@@ -4,7 +4,7 @@
 
 Using WebGL Javascript API to 3D render a cube to an HTML5 Canvas
 
-> DEMO: <a href="mduplinsky.me/projects/webgl-minecraft-cube">mduplinsky.me/projects/webgl-minecraft-cube</a>
+> DEMO: <a href="mduplinsky.me/projects/webgl-minecraft-cube">http://mduplinsky.me/projects/webgl-minecraft-cube</a>
 
 ## Usage
 
