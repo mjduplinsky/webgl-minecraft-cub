@@ -10,7 +10,7 @@ Using WebGL Javascript API to 3D render a cube to an HTML5 Canvas
 
 `$ [sudo] gem install sass`
 
-`$ cd simple-rating-system`
+`$ cd webgl-minecraft-cube`
 
 First run `$ touch styles.scss styles.css`
 
